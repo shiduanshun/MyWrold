@@ -1,0 +1,7 @@
+rootProject.name = 'gradle-parent-01'
+include 'gradle-common-01'
+include 'gradle-pojo-01'
+include 'gradle-service-01'
+include 'gradle-dao-01'
+include 'gradle-controller-01'
+

@@ -1,0 +1,9 @@
+# 不提交.gradle 的文件夹
+.gradle/*
+# 不提交.idea 的文件夹
+.idea/
+# 不提交.iml 的文件
+*.iml
+# 不提交out的文件
+/out/
+
